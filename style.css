@@ -1,0 +1,108 @@
+*{
+    font-family: "Montserrat";
+}
+
+body{
+    background-size: cover;
+    background-color: #f0f0f0;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: 100px 232px;
+    background-attachment: fixed;
+    width: 95%;
+}
+
+img  {
+    width: 90%;
+    height: 220px;
+    padding: 0 0 18px 0;
+}
+
+#colspan{
+    background-color: #f0f0f0;
+    background-position: center center;
+    box-shadow: 0 0 25px;
+    width: 30%;
+    height: 1110px;
+    text-align: justify;
+    float: left;
+    padding: 4px 8px;
+    padding-right: 16px;
+}
+
+.container-padding {
+    box-shadow: 0 0 25px;
+    width: 70%;
+    height: 650px;
+    background-color: #f0f0f0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 22.5px;
+    margin-left: 34%;
+    padding-bottom: 0.15px;
+    padding-left: 16px;
+    padding-top: 0.15px;
+}
+
+.padding { 
+    text-align: left;
+}
+
+.padding-bottom {
+    box-shadow: 0 0 25px;
+    width: 70%;
+    position: bottom;
+    height: 450px;
+    background-color: #f0f0f0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 22.5px;
+    margin-left: 34%;
+    padding-bottom: 0.15px;
+    padding-left: 16px;
+    padding-top: 0.15px;
+    margin-top: 16px;
+}
+
+.load {
+    background-color: #f0f0f0;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.progress {
+    background-color: #009688;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 18px;
+    color:  #ffff;
+    text-align: center;
+}
+
+.content1 { 
+    padding: 16px;
+}
+
+
+
+i {
+    padding: 5px;
+    color: #009688 !important;
+}
+
+hr {
+    border: -1px solid gray;
+}
